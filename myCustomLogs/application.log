@@ -1,0 +1,14 @@
+2024-05-27 15:34:39.486 [restartedMain] INFO  c.example.logging.LoggingApplication - Starting LoggingApplication using Java 21.0.2 with PID 27080 (C:\ex springBoot\logging\target\classes started by User in C:\ex springBoot\logging)
+2024-05-27 15:34:39.493 [restartedMain] INFO  c.example.logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-27 15:34:39.602 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-27 15:34:39.602 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-27 15:34:41.135 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-27 15:34:41.152 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-27 15:34:41.155 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-27 15:34:41.156 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-27 15:34:41.220 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-27 15:34:41.222 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1614 ms
+2024-05-27 15:34:41.719 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-27 15:34:41.734 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-27 15:34:41.754 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-05-27 15:34:41.765 [restartedMain] INFO  c.example.logging.LoggingApplication - Started LoggingApplication in 2.841 seconds (process running for 3.776)
